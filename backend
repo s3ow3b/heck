@@ -1,0 +1,21 @@
+
+# Full-Stack Todo App
+
+A simple full-stack Todo application built to demonstrate frontend (HTML/CSS/JS) and backend (Node.js/Express) integration.
+
+## Features
+- Add, view, delete todos via intuitive UI.
+- Frontend fetches/sends data to backend API.
+- LocalStorage fallback for offline use.
+
+## Setup
+1. Backend: `cd backend && npm install && npm start`
+2. Frontend: Open `frontend/index.html` in browser (connects to http://localhost:3000).
+
+## Milestones
+- MS1: Repo init & README ✅
+- MS2: Frontend
+- MS3: Backend
+
+Built for Rule Book challenge.
+
